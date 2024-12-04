@@ -33,5 +33,5 @@ bin/
 .DS_Store
 
 
-
-/Day1/src/main/resources/
+##Resources
+!**/src/main/resources/
