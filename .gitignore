@@ -37,3 +37,4 @@ bin/
 !**/src/main/resources/
 /Day1/src/main/resources/
 *.iml
+*.txt
