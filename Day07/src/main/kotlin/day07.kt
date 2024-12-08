@@ -5,6 +5,7 @@ fun main() {
     part01()
     part02()
 }
+// Part01
 
 fun part01(){
     val input = File("src/main/kotlin/day07part1.txt").readLines()
@@ -41,7 +42,7 @@ fun part01(){
 
 
 }
-
+// Recursive function 
 fun canFormKey(key: Long, values: List<Int>): Boolean {
     fun check(current: Long, index: Int): Boolean {
         if (index == values.size) {

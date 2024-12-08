@@ -17,7 +17,6 @@ out/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
-!**/src/main/**/resources
 
 ### NetBeans ###
 /nbproject/private/
@@ -31,10 +30,3 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-
-
-##Resources
-!**/src/main/resources/
-/Day1/src/main/resources/
-## Extentions of the files
-*.txt
