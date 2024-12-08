@@ -36,5 +36,6 @@ bin/
 ##Resources
 !**/src/main/resources/
 /Day1/src/main/resources/
+## Extentions of the files
 *.iml
 *.txt
